@@ -70,3 +70,15 @@ This project is a Laravel 10 application integrated with Filament, Spatie, Livew
    ```sh
    php artisan key:generate
    ```
+6. **Run migrations:**
+   ```
+   php artisan migrate
+   ```
+7. **Seed the database :**
+   ```
+   php artisan db:seed --class=RoleSeeder
+     ```
+7. **Seed the database :**
+   ```
+      php artisan db:seed --class=UserSeeder
+   ```
