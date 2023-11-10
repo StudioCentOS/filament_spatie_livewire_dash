@@ -78,7 +78,7 @@ This project is a Laravel 10 application integrated with Filament, Spatie, Livew
    ```
    php artisan db:seed --class=RoleSeeder
      ```
-7. **Seed the database :**
+8. **Seed the database :**
    ```
    php artisan db:seed --class=UserSeeder
    ```
