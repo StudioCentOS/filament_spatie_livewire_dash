@@ -80,5 +80,5 @@ This project is a Laravel 10 application integrated with Filament, Spatie, Livew
      ```
 7. **Seed the database :**
    ```
-      php artisan db:seed --class=UserSeeder
+   php artisan db:seed --class=UserSeeder
    ```
